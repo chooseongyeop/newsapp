@@ -1,0 +1,67 @@
+/* .App {
+  margin: 20px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.movieImage {
+  width: 300px;
+}
+
+.good {
+  color: blue;
+}
+
+.soso {
+  color: orange;
+}
+
+.bad {
+  color: red;
+} */
+
+.title {
+  font-size: 5rem;
+  font-weight: 900;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: black;
+  border: 1px solid gray;
+}
+
+.newsTitle {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: black;
+  text-decoration: none;
+}
+
+.newsTitle:hover {
+  color: pink;
+}
+
+.newsComments_countHigh {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: blue;
+}
+
+.newsComments_countLow {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: red;
+}
+
+.newsComments_count {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: green;
+}
+.newsUser {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: gray;
+}
